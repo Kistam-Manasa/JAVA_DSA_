@@ -6,3 +6,4 @@
 6. [Kids with the greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
 8. [How many numbers are smaller than the current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+9. [Create Target Array in the given order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)
