@@ -5,3 +5,4 @@
 5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 6. [Kids with the greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
+8. [How many numbers are smaller than the current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
