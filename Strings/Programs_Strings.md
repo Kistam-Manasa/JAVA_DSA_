@@ -1,3 +1,5 @@
 1. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 2. [Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
 3. [To LowerCase](https://leetcode.com/problems/to-lower-case/)
+4. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+5. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
