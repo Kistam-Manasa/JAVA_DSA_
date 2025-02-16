@@ -6,3 +6,4 @@
 6. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 7. [Check if Two String Arrays are Equvivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 8. [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)
+9. [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
