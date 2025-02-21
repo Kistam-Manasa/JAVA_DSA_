@@ -6,5 +6,9 @@
 
 4.[Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 
-4.[Find Numbers with Even Number of digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
+5.[Find Numbers with Even Number of digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
+
+6.[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
+7.[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
