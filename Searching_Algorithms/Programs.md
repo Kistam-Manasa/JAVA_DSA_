@@ -12,3 +12,5 @@
 
 7.[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
+8.[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/)
+
